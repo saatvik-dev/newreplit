@@ -99,7 +99,7 @@ export const galleryItems = [
   },
   {
     id: 5,
-    image: 'https://ik.imagekit.io/4ep9dg1krg/lotus-design-n-print-7v5rOsM6Fbc-unsplash.jpg?updatedAt=1745840329522',
+    image: 'https://ik.imagekit.io/4ep9dg1krg/niloy-tanvirul-M0PnEFVfq-g-unsplash%20(1).jpg?updatedAt=1745521359770',
     title: 'Industrial Chic',
     description: 'Raw aluminum aesthetics meet sophisticated functionality.'
   },
