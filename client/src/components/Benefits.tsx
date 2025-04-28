@@ -56,7 +56,7 @@ const Benefits = () => {
               <div className="absolute inset-0 bg-slate-900 rounded-xl opacity-5 transform rotate-3"></div>
               <div className="absolute inset-0 bg-teal-500 rounded-xl opacity-5 transform -rotate-3"></div>
               <img 
-                src="https://images.unsplash.com/photo-1604709177225-055f99402ea3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80" 
+                src="https://ik.imagekit.io/4ep9dg1krg/niloy-tanvirul-M0PnEFVfq-g-unsplash%20(1).jpg?updatedAt=1745521359770" 
                 alt="M-Kite Aluminum Kitchen Benefits" 
                 className="relative rounded-xl shadow-xl w-full h-auto"
               />
